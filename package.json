@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/habitos-de-estudio",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a habitos-de-estudio",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/habitos-de-estudio.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://impactandlearning.org/es/habitos-de-estudio/"
+    },
+    "homepage": "https://impactandlearning.org/es/habitos-de-estudio/"
+}
